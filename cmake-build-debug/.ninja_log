@@ -1,0 +1,9 @@
+# ninja log v5
+1	922	7173687884160940	CMakeFiles/Employee.dir/main.cpp.obj	bb8ab1ec808a06f8
+928	1246	7173687887307024	Employee.exe	4d93b89f31bdc66e
+10	1538	7173688198082438	CMakeFiles/Employee.dir/main.cpp.obj	bb8ab1ec808a06f8
+1539	1794	7173688200590338	Employee.exe	4d93b89f31bdc66e
+16	1571	7173689524623511	CMakeFiles/Employee.dir/main.cpp.obj	bb8ab1ec808a06f8
+1572	1887	7173689527640348	Employee.exe	4d93b89f31bdc66e
+17	1333	7173690022388108	CMakeFiles/Employee.dir/main.cpp.obj	bb8ab1ec808a06f8
+1334	1721	7173690026180422	Employee.exe	4d93b89f31bdc66e
